@@ -1,0 +1,4 @@
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Form\obj\Debug\net8.0-windows\FileChecker.Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Form\obj\Debug\net8.0-windows\FileChecker.Form.AssemblyInfoInputs.cache
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Form\obj\Debug\net8.0-windows\FileChecker.Form.AssemblyInfo.cs
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Form\obj\Debug\net8.0-windows\FileChecker.Form.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\bin\Debug\net8.0\FileChecker.Data.deps.json
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\bin\Debug\net8.0\FileChecker.Data.runtimeconfig.json
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\bin\Debug\net8.0\FileChecker.Data.dll
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\bin\Debug\net8.0\FileChecker.Data.pdb
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.csproj.AssemblyReference.cache
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.AssemblyInfoInputs.cache
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.AssemblyInfo.cs
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.csproj.CoreCompileInputs.cache
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.dll
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\refint\FileChecker.Data.dll
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.pdb
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\FileChecker.Data.genruntimeconfig.cache
+C:\Users\laptop4\source\repos\FileChecker\FileChecker.Data\obj\Debug\net8.0\ref\FileChecker.Data.dll
